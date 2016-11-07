@@ -1,0 +1,48 @@
+html {
+  text-size-adjust: 100%;
+}
+.centeredImage {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  margin-top: -50px;
+  margin-left: -150px;
+}
+
+h1 {
+  font-family: serif;
+}
+h1 {
+  color: #ff3399;
+}
+#future {
+  color: red;
+}
+h1 {
+  text-align: center;
+}
+h2 {
+  color: #00ccff;
+}
+
+h2 {
+  font-family: cursive;
+}
+h2 {
+  text-align: center;
+}
+
+p {
+  font-family: fantasy;
+}
+p {
+  font-size: .9em;
+}
+p {
+  text-align: center;
+}
+body {
+  background: url("http://www.psdgraphics.com/file/light-wooden-background.jpg");
+  margin: 0;
+  font: 16px / 1 sans-serif;
+}
